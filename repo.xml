@@ -6,9 +6,9 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Follow me on Reddit</name>
+			<name>Buy me some milk</name>
 			<url>https://www.reddit.com/user/iflautey</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-paypal</iconclass>
 		</link>
 	</footerlinks>
 </repo>
