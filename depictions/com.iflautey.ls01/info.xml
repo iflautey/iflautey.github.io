@@ -1,0 +1,18 @@
+<package>
+	<id>com.iflautey.ls01</id>
+	<name>LS.01</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1b3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>A simple LS widget with a clock, date and battery %.</description>
+	</descriptionlist>
+	<screenshots>./iflautey.github.io/depictions/screenshots/ls01.png/</screenshots>
+	<changelog>
+		<change>Fixed alignment issues.</change>
+	</changelog>
+</package>

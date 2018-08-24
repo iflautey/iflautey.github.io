@@ -1,0 +1,17 @@
+<package>
+	<id>com.iflautey.hsline</id>
+	<name>HS Line</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1b3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>A simple line widget for the home screen.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
