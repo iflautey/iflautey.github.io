@@ -11,7 +11,7 @@
 	<descriptionlist>
 		<description>A simple LS widget with a clock, date and battery %.</description>
 	</descriptionlist>
-	<screenshots>./depictions/screenshots/ls01.png</screenshots>
+	<screenshots>./screenshots/ls01.png</screenshots>
 	<changelog>
 		<change>Fixed alignment issues.</change>
 	</changelog>

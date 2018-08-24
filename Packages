@@ -3,9 +3,9 @@ Version: 1.0
 Section: SBHTML Widgets
 Maintainer: iflautey <lucalunetta@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.iflautey.hsline
-Size: 2000
-MD5sum: cb442fe9e96c0a939fa7af422476e155
+Filename: ./debs/com.iflautey.hsline.deb
+Size: 852
+MD5sum: 1299b54b98ceaadc1c8149861915c008
 Description: A simple line widget for the home screen.
 Name: HS Line
 Author: iflautey <lucalunetta@gmail.com>
@@ -17,8 +17,8 @@ Section: LockHTML Widgets
 Maintainer: iflautey <lucalunetta@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.iflautey.ls01.deb
-Size: 58180
-MD5sum: 52c233ab54852e0ff90a1537fa3e1321
+Size: 57154
+MD5sum: cf05c9bce0a2078cb7360c7dc09e60f2
 Description: A simple LS widget with a clock, date and battery %.
 Name: LS.01
 Author: iflautey <lucalunetta@gmail.com>
