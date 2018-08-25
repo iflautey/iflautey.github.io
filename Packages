@@ -32,6 +32,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.iflautey.ls02.deb
 Size: 270740
 MD5sum: 1a576aa5cfa75a88ec0b6b74381c298f
+SHA1: b6e9081c818527e9cac4009f447cbd6f387a08fb
+SHA256: b8485426f804b3cfcd24d0661d87a7c56884cfa16f1e4f2cb76ac9881fbc1208
 Description: A diamond shape with the date and a clock.
 Name: LS.02
 Author: iflautey <lucalunetta@gmail.com>
