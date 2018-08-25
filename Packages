@@ -24,3 +24,15 @@ Name: LS.01
 Author: iflautey <lucalunetta@gmail.com>
 Depiction: https://iflautey.github.io/depictions/?p=com.iflautey.ls01
 
+Package: com.iflautey.ls02
+Version: 1.0
+Section: LockHTML Widgets
+Maintainer: iflautey <lucalunetta@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.iflautey.ls02.deb
+Size: 270740
+MD5sum: 1a576aa5cfa75a88ec0b6b74381c298f
+Description: A diamond shape with the date and a clock.
+Name: LS.02
+Author: iflautey <lucalunetta@gmail.com>
+Depiction: https://iflautey.github.io/depictions/?p=com.iflautey.ls02

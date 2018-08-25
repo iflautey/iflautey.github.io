@@ -1,0 +1,17 @@
+<package>
+	<id>com.iflautey.ls02</id>
+	<name>LS.02</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1b3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>A diamond shape with the date and a clock.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release.</change>
+	</changelog>
+</package>
