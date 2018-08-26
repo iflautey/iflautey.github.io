@@ -30,8 +30,8 @@ Section: LockHTML Widgets
 Maintainer: iflautey <lucalunetta@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.iflautey.ls02.deb
-Size: 270740
-MD5sum: 1a576aa5cfa75a88ec0b6b74381c298f
+Size: 270768
+MD5sum: 12db30d02dffafe8b7d106ce751f7c29
 Description: A diamond shape with the date and a clock.
 Name: LS.02
 Author: iflautey <lucalunetta@gmail.com>
